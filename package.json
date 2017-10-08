@@ -1,0 +1,9 @@
+{
+  "name": "booklog",
+  "version": "0.0.1",
+  "description": "user logging books to profile from google books api",
+  "main": "index.js",
+  "repository": "http://github.com/bubodev/booklog",
+  "author": "Ljupce <bubomillennium@gmail.com>",
+  "license": "MIT"
+}
